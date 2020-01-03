@@ -3,6 +3,8 @@
 Place - Dalhousie University
 
 
+**Data set ** : https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
+
 The goal of the my project was to analyze the Brazilian weather station data and perform the
 following tasks:
 
@@ -19,6 +21,8 @@ e) Develop a web page using front end technologies
 f) Backend technologies to retrieve data on the webpage
 
 g) To measure the response time taken by both mongo db and MySQL.
+
+
 
 **Cleaning & Formatting**: The data has 9 million records with 122 weather station ids. I imported
 those records and cleaned the data using pandas. I observed that there were a lot of empty records
