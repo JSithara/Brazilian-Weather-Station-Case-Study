@@ -1,5 +1,7 @@
 # Brazilian-Weather-Station-Case-Study
 
+Place - Dalhousie University
+
 
 The goal of the my project was to analyze the Brazilian weather station data and perform the
 following tasks:
