@@ -1,7 +1,7 @@
 # Brazilian-Weather-Station-Case-Study
 
 
-The goal of the project was to analyze the Brazilian weather station data and perform the
+The goal of the my project was to analyze the Brazilian weather station data and perform the
 following tasks:
 
 a) Cleaning (attribute and data)
